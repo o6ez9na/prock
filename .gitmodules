@@ -1,3 +1,6 @@
 [submodule "prock-bakcend"]
 	path = prock-bakcend
 	url = git@github.com:o6ez9na/prock-bakcend.git
+[submodule "prock-web"]
+	path = prock-web
+	url = git@github.com:o6ez9na/prock-web.git
